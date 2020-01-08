@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-dynamic-import-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjiahan/babel-plugin-dynamic-import-polyfill.git"
+  },
+  "author": "chenjiahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenjiahan/babel-plugin-dynamic-import-polyfill/issues"
+  },
+  "homepage": "https://github.com/chenjiahan/babel-plugin-dynamic-import-polyfill#readme",
+  "dependencies": {
+    "@babel/helper-module-imports": "7.x"
+  }
+}
